@@ -1,0 +1,43 @@
+.top-bar {
+    background-color: #533B75;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 32px;
+    background-color: #260C47;
+    border-radius: 12px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    font-size: 25px ;
+}
+
+.logo-icon{
+    size: 80px;
+}
+
+.top-bar-title{
+    color: #f0c987;
+    font: 'EB Garamond';
+    font-size: 65px;
+    margin: 30px;
+}
+
+
+.info{
+    display: flex;
+    justify-content: space-between;
+}
+
+.username{
+    color: #f0c987;
+    font: 'Plus jakarta Sans';
+    font-size: 30px;
+
+}
+
+.user-profile-picture{
+    visibility: visibles;
+}
